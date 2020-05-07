@@ -51,4 +51,4 @@ class Main {
 }
 ```
 
-## [Результат выполнения](https://institution.dmitrysar.repl.run/)
+## [Выполнить программу](https://institution.dmitrysar.repl.run/)
