@@ -10,7 +10,7 @@ ArrayList<Student> students = new ArrayList<>();
 Добавление нового объекта типа Student:
 
 ```Java
-students.add(new Student("Иванов Иван Иванович");
+students.add(new Student("Иванов Иван Иванович"));
 ```
 Метод для добавления объекта Student:
 ```Java
